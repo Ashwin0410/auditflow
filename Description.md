@@ -136,6 +136,4 @@ Runs a full data audit:
 
 ---
 
-## 📸 Output
 
-All generated charts are saved in:
